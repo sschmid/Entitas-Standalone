@@ -5,7 +5,7 @@ using Jenny.Generator.Cli;
 
 namespace MyProject.Jenny;
 
-public class Program
+public static class Program
 {
     public static void Main(string[] args)
     {
