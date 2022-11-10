@@ -2,7 +2,7 @@
 #
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject", "src/MyProject.csproj", "{1BE53A8B-ED94-48D8-86C1-59687E88180E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.Jenny", "jenny/MyProject.Jenny.csproj", "{1BE53A8B-ED94-48D8-86C1-59687E88180E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject.CodeGenerator", "jenny\MyProject.CodeGenerator.csproj", "{1BE53A8B-ED94-48D8-86C1-59687E88180E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

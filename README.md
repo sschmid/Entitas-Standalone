@@ -13,11 +13,11 @@ Use this project to build the code generator called Jenny.
 To start the server please run:
 
 ```
-dotnet run -c Release --project jenny/MyProject.Jenny.csproj
+dotnet run -c Release --project jenny/MyProject.CodeGenerator.csproj server
 ```
 
 To generate code using the server please run
 
 ```
-dotnet jenny/bin/Release/net6.0/MyProject.Jenny.dll client gen
+dotnet jenny/bin/Release/net6.0/MyProject.CodeGenerator.dll client gen
 ```
